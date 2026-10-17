@@ -30,6 +30,14 @@ Bu projede Google Analytics 4 (GA4) genel e-ticaret veri setini kullanarak kulla
 - Add Payment Info → Purchase dönüşümü: %72,49
 - En belirgin kullanıcı kayıpları funnel'ın erken aşamalarında gerçekleşmektedir.
 
-## Dashboard
+## Project Files
 
-Looker Studio: https://datastudio.google.com/reporting/698aa941-94c4-4164-ab13-db0927c02b07
+### SQL Queries
+- [Session-Level Funnel Analysis](sql/funnel_sessions.sql)
+- [Funnel Steps for Visualization](sql/funnel_steps.sql)
+
+## Live Dashboard
+[View Interactive Dashboard](https://datastudio.google.com/reporting/698aa941-94c4-4164-ab13-db0927c02b07)
+
+### Project Presentation
+[View Project Presentation](Zeynep_Tatlisoz_Ecommerce_Funnel_Analysis.pdf.pdf)
